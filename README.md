@@ -54,7 +54,7 @@ I'm actively exploring roles where I can contribute, learn, and grow. Be it full
 
 - During one of my project, I developed a web scraping tool that collected data from over 4,000 web pages in a single run, just out of sheer curiosity.
   
-- While juggling my entrepreneurial venture, I once debugged a critical issue in my e-commerce platform during a long-haul flight, ensuring no downtime.
+- In a project on clustering countries by socio-economic and health factors, I crafted interactive visualizations to communicate complex data insights, leading to clearer decision-making and positive feedback.
 
 ---
 
